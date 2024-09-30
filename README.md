@@ -1,5 +1,5 @@
 # Practicas_Django_1205_5J
-aquí se realizan las practicas en Django que es un Framework Marco de tranajo
+aquí se realizan las practicas en Django que es un Framework Marco de trabajo
 - 1 crear carpeta de trabajo --> cbtis128j1205
 - 2 abrir carpeta con Vs Code
 - 3 limk de referencia --> https://code.visualstudio.com/docs/python/tutorial-django
